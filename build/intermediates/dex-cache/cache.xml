@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cce\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\cce\Desktop\UERN places\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_fbe282b93fda1a33e09ab5e95c50e4a07bbf9a32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cce\Desktop\UERN places\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f79544050e5686bfa95745e9d5b85ea04728c244">
+        <dex dex="C:\Users\cce\Desktop\UERN places\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7d9a771d87d10ae2d4d7d78938b51bc5aaa1e9e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cce\Desktop\UERN places\app\libs\osmbonuspack_v4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbb5a090c29cc3dbde769e1cc1a7b51029f8bba1">
+        <dex dex="C:\Users\cce\Desktop\UERN places\app\build\intermediates\pre-dexed\debug\osmbonuspack_v4.4_8f98f6f750538463212dfbca827cc76dfdb3ecfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cce\Desktop\UERN places\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6e0c78408c376b15b3c19c2651642e6b4eaf784">
+        <dex dex="C:\Users\cce\Desktop\UERN places\app\build\intermediates\pre-dexed\debug\instant-run_7168d70dc59319755972a05bc4e1eb0b4be2de93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cce\Desktop\UERN places\app\libs\slf4j-android-1.6.1-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
+        <dex dex="C:\Users\cce\Desktop\UERN places\app\build\intermediates\pre-dexed\debug\slf4j-android-1.6.1-RC1_c50b7bb69f5d082ff60b468727fd1e2c7ba2bf32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cce\Desktop\UERN places\app\libs\osmdroid-android-4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="60913edd9f91f63a5106e3bfc06b2fddda657303">
+        <dex dex="C:\Users\cce\Desktop\UERN places\app\build\intermediates\pre-dexed\debug\osmdroid-android-4.1_e7f11c82e5981b4a0fbd4e23807794561f4bca1b.jar" />
+    </item>
+
+</items>

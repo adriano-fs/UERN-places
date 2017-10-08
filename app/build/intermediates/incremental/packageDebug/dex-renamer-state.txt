@@ -1,0 +1,4 @@
+#Fri Sep 29 21:58:06 GMT-03:00 2017
+base.0=C\:\\Users\\cce\\Desktop\\UERN places\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\cce\\Desktop\\UERN places\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
